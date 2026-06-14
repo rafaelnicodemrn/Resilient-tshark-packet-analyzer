@@ -1,0 +1,1 @@
+# Dependências Core: Projeto utiliza estritamente bibliotecas built-in e o binário do TShark
